@@ -23,5 +23,5 @@ Before you begin, ensure you have met the following requirements:
 ## Setup Instructions
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Lokeshd200/school_management.git
-cd school_management
+git clone https://github.com/Lokeshd200/school_management-api.git
+cd school_management-api
